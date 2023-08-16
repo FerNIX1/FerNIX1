@@ -1,4 +1,6 @@
 ### Hi there 👋
+<h1>BIENVENIDO</h1>
+<h2>hola amigos mi nombre es Fernando Lopez</h1>
 
 <!--
 **FerNIX1/FerNIX1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
