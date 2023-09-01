@@ -1,5 +1,7 @@
-
-<img![image](https://github.com/FerNIX1/FerNIX1/assets/90074636/3ecc7752-4f17-40ad-a13c-8759a5dd9f5b)>
 <h1>BIENVENIDO</h1>
 <h2>hola amigos mi nombre es Fernando Lopez</h1>
-
+<h3>cosas sobre mi</h3>
+<ul>
+  <li>1)Programa en el lenguaje php</li>
+  <li>2)Me puedo desenvolver en equipo</li>
+</ul>
