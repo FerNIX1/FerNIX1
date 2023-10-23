@@ -86,7 +86,9 @@
 
 <!--íconos y enlaces-->
 <p align="center">
-  <a href="linkedin.com/in/edgar-fernando-lopez-zavaleta-8b0ab823b" target="blank"><img align="center" src="https://tulinkedinicon.png" alt="linkedin" height="50" width="50" /></a>
+  <a href="https://linkedin.com/in/edgar-fernando-lopez-zavaleta-8b0ab823b" target="blank">
+    <img align="center" src="[https://tulinkedinicon.png](https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png)" alt="linkedin" height="50" width="50" />
+  </a>
 </p>
 <!--profile visit count-->
 <div align="center">
